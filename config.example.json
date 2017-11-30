@@ -1,0 +1,6 @@
+{
+    "LOCAL_TIMEZONE": "+0900",
+    "IFTTT_WEBHOOK_TIME_FORMAT": "%Y/%m/%d %H:%M:%S",
+    "IFTTT_WEBHOOK_EVENT": "new_weight_formatted",
+    "IFTTT_WEBHOOK_TOKEN": "abcdefghijklmn"
+}
